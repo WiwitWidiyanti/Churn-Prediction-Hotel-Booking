@@ -1,4 +1,4 @@
-#Churn Prediction Hotel Booking.ipynb
+# Churn Prediction Hotel Booking
 
 **Tools:** Python, Google Colab
 <br>
